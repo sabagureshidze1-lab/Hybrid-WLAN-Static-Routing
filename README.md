@@ -3,8 +3,13 @@
 
 ## Topology Overview
 This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
+# Network Infrastructure Project
 
-![Network Design](star_topology.png)
+## Topology Overview
+This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
+
+![Network Design](star_topology.png.png)
+
 
 ## Topology Overview
 This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
