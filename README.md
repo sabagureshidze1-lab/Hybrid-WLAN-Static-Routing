@@ -8,7 +8,8 @@ This design features a Star Topology with a central Switch, a Server, and Wirele
 ## Topology Overview
 This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
 
-![Network Design](star_topology.png.png)
+![Network Design](Hybrid WiredWireless Network.png.png)
+
 
 
 ## Topology Overview
