@@ -1,4 +1,14 @@
 # Hybrid-WLAN-Static-Routing
+# Network Infrastructure Project
+
+## Topology Overview
+This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
+
+![Network Design](star_topology.png)
+
+## Topology Overview
+This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
+
 Cisco Packet Tracer design featuring a hybrid wired/wireless LAN, Access Point integration, and dual-router static routing configuration
 # Hybrid Wired/Wireless Network with Static Routing
 
