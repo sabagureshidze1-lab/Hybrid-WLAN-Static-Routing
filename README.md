@@ -1,6 +1,6 @@
 # Hybrid-WLAN-Static-Routing
 # Network Infrastructure Project
-![Network Topology](Hybrid-WiredWireless-Network.png.png)
+![Network Topology](Hybrid-WiredWireless-Network.png.)
 
 ## Topology Overview
 This design features a Star Topology with a central Switch, a Server, and Wireless Access Point.
